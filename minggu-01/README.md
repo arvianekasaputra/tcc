@@ -46,9 +46,14 @@ Pilih default editor yang digunakan pada Git.
 
 ![sebelas](11.png)
 
-![duabelas](11.png)
+![duabelas](12.png)
 
 
 Tinggal tunggu proses instalasi.
+
+![duabelas](13.png)
+
  
 Jika sudah sampai pada bagian ini maka instalasi sudah selesai dilakukan.
+
+![duabelas](14.png)
