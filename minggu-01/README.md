@@ -1,8 +1,10 @@
 Nama	: Arvian Eka Saputra
+
 NIM	: 175410041
+
 Kelas	: TI-9
 ________________________________________
-Pertemuan 1 - Instalasi Git
+**Pertemuan 1 - Instalasi Git**
 
 1.	Download dan buka file Git.
 
