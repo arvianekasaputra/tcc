@@ -6,7 +6,7 @@ Pertemuan 1 - Instalasi Git
 
 1.	Download dan buka file Git.
 
-![satu][1.png]
+![satu](1.png)
 
 
 2.	Ikuti langkah installasinya.
