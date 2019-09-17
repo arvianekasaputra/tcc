@@ -19,6 +19,6 @@ ________________________________________
 ![dua](2.png)
 
  
-4.	Untuk melihat config Git menggunakan command seperti ini git config --list.
+4.	Untuk melihat config Git yang telah dilakukan pada nomor 2 dan 3 menggunakan command seperti ini git config --list.
 
 ![tiga](3.png)
