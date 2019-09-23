@@ -4,7 +4,9 @@ NIM		: 175410041
 
 Kelas	: TI-9
 ________________________________________
-**Pertemuan 2 - Instalasi Git**
+**Pertemuan 2**
+
+**Instalasi Git**
 
 1.	Pastikan anda sudah membuka aplikasi Git Bash.
 
