@@ -4,7 +4,7 @@ NIM		: 175410041
 
 Kelas	: TI-9
 ________________________________________
-**Pertemuan 2**
+## Pertemuan 2
 
 **Instalasi Git**
 
@@ -24,3 +24,19 @@ ________________________________________
 4.	Untuk melihat config Git yang telah dilakukan pada nomor 2 dan 3 menggunakan command seperti ini git config --list.
 
 ![tiga](3.png)
+
+
+**Mengelola Repo Sendiri di Account Sendiri**
+1.  Klik tanda + pada bagian atas setelah login, pilih New repository
+
+![empat](4.png)
+
+
+2.  Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
+
+![lima](5.png)
+
+
+3.  Klik Create Repository
+
+![enam](6.png)
