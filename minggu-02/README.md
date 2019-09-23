@@ -27,6 +27,7 @@ ________________________________________
 
 
 **Mengelola Repo Sendiri di Account Sendiri**
+
 1.  Klik tanda + pada bagian atas setelah login, pilih New repository
 
 ![empat](4.png)
@@ -40,3 +41,10 @@ ________________________________________
 3.  Klik Create Repository
 
 ![enam](6.png)
+
+
+**Clone Repo**
+
+Untuk melakukan proses clone, gunakan perintah berikut: git clone https://github.com/arvianekasaputra/projectcoba.git
+
+![tujuh](7.png)
