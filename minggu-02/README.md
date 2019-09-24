@@ -48,3 +48,24 @@ ________________________________________
 Untuk melakukan proses clone, gunakan perintah berikut: git clone https://github.com/arvianekasaputra/projectcoba.git
 
 ![tujuh](7.png)
+
+![delapan](8.png)
+
+
+**Mengelola Repo**
+
+**Mengubah Isi - Push Tanpa Branching dan Merging**
+
+$ vim README.md
+
+![sembilan](9.png)
+
+
+$ cat README.md
+
+![sepuluh](10.png)
+
+
+$ git status
+
+![sebelas](11.png)
