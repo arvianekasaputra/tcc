@@ -69,3 +69,15 @@ $ cat README.md
 $ git status
 
 ![sebelas](11.png)
+
+
+$ git add -A
+
+$ git commit -m "Add: README.md + png"
+
+![duabelas](12.png)
+
+
+$ git push origin master
+
+![tigabelas](13.png)
