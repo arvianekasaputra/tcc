@@ -55,6 +55,6 @@ menyediakan Layanan Bpaas :
 
 **Arsitektur BPaaS**
 
-Untuk arsitektur SaaS seperti dibawah ini.
+Untuk arsitektur BPaaS seperti dibawah ini.
 
-![arsitektur](arsitektur.png)
+![arsitektur](arsitekturbpaan.jpg)
