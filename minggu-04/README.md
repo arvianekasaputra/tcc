@@ -57,4 +57,4 @@ menyediakan Layanan Bpaas :
 
 Untuk arsitektur BPaaS seperti dibawah ini.
 
-![arsitektur](arsitekturbpaan.jpg)
+![arsitektur](arsitekturbpaas.jpg)
