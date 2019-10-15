@@ -30,7 +30,7 @@ Configurasi CockroachDB
     Build Type:   release
     ```
 
-4. Langkah untuk melakukan instalasi cockroach menggunakan docker adalah sebagai berikut. Download docker terlebih dahulu di [docker](https://docs.docker.com/docker-for-windows/install/)
+4. Langkah untuk melakukan instalasi cockroach menggunakan docker adalah sebagai berikut. Download docker terlebih dahulu di https://docs.docker.com/docker-for-windows/install/
 
 6. Kemudian install dan buka program docker untuk windows. Kemudian bisa kita cek versi dari docker.
     ```
