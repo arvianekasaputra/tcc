@@ -18,7 +18,7 @@ ________________________________________
 
     ![dua](img/2.png)
 
-4. Pada praktik ini kita memilih Next.js
+4. Pada praktik ini kita memilih Next.js dan pilih bagian Create Project
 
 
 
