@@ -12,11 +12,11 @@ ________________________________________
 
 2. Login menggunakan akun github
 
-    ![satu](img/1.png)
+    ![satu](img/1.PNG)
 
 3. Akses ke  https://zeit.co/dashboard dan pilih create new project untuk membuat project
 
-    ![dua](2.png)
+    ![dua](2.PNG)
 
 4. Pada praktik ini kita memilih Next.js dan pilih bagian Create Project
 
