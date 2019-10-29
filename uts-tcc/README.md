@@ -36,7 +36,7 @@ ________________________________________
 
     ![satu](file.jpg)
 
-7. Jalankan Docker dengan contoh command dibawah ini.
+8. Jalankan Docker dengan contoh command dibawah ini.
     ```
     PS C:\Users\User\arviansapu> docker build -t arviansapu/arviansapu:v3 . 
 
@@ -52,3 +52,17 @@ ________________________________________
     PS C:\Users\User\arviansapu> docker images                                                                              REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
     arviansapu/arviansapu     v3                  57221ec61f04        25 minutes ago      21.4MB
     ```
+
+    Maka akan dihasilkan seperti dibawah ini.
+
+    ![dia](images.png)
+
+9. Setelah itu langsung saja kita push ke Docker. Dengan cara yaitu kita sudah sign in ke Docker pada software Docker di komputer kita.
+
+10. Setelah itu pada console kita ketikkan seperti dibawah ini.
+    ```
+    PS C:\Users\User\arviansapu> docker tag arviansapu/arviansapu:v1 arviansapu/arviansapu:v1
+    PS C:\Users\User\arviansapu> docker push arviansapu/arviansapu:v1 
+    ```
+
+11. Jika sudah maka images Docker yang sudah ada di local sudah tersimpan juga di web Docker.
