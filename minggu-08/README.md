@@ -7,3 +7,5 @@ ________________________________________
 ## Pertemuan 8
 
 ##Python dan Flask
+
+Sumber : https://medium.com/@mtngt/docker-flask-a-simple-tutorial-bbcb2f4110b5
