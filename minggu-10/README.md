@@ -38,9 +38,9 @@ Langkah :
 
 Dan akan didapati seperti ini ketika cek pada folder di local.
 
-	![tiga](3.png)
+![tiga](3.png)
 
-	![empat](4.png)
+![empat](4.png)
 
 Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dari repo kontributor. Konfigurasi repo upstream harus dibuat.
 
@@ -48,7 +48,7 @@ Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dar
 	git remote -v
 	```
 
-	![lima](5.png)
+![lima](5.png)
 
 Tambahkan remote upstream :
 
@@ -56,7 +56,7 @@ Tambahkan remote upstream :
 	git remote add upstream https://github.com/faridhotul/playground-far.git
 	```
 
-	![enam](6.png)
+![enam](6.png)
 
 Lalu cek kembali dengan command dibawah ini :
 	
@@ -64,4 +64,4 @@ Lalu cek kembali dengan command dibawah ini :
 	git remote -v
 	```
 
-	![tujuh](7.png)
+![tujuh](7.png)
