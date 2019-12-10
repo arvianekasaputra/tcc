@@ -59,4 +59,4 @@ Menjalankan Drupal container dengan sebuah hubungan untuk membuat MariaDB
 
 Melihat container yang sudah ada.
 
-![sepuluh](10.jpg)
+![sepuluh](11.jpg)
