@@ -9,3 +9,7 @@ ________________________________________
 ## Pertemuan 13
 
 ## Docker Swarm
+
+Sumber : https://docs.docker.com/engine/swarm/
+
+![satu](1.jpg)
